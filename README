@@ -1,0 +1,20 @@
+MP3TAGS
+-------------------------------------------------------------------
+
+ABOUT
+Python tool to list and edit MP3 Tags
+This is focued on keeping Carnatic music tracks organized.
+
+REQUIRED
+- mutagen
+
+CONFIG
+Needs TAGS.yaml in the path with mp3 files.
+See cfg/Sample-TAGS.yaml file
+
+TODO
+- Add support for ragam, talam, composer per track
+
+AUTHOR
+Ramesh Natarajan
+Last update: Jul 27, 2020
